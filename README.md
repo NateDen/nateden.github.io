@@ -1,2 +1,2 @@
 # Portfolio-Site
-My website, responsive and mobile-friendly.
+My website.
