@@ -1,0 +1,2 @@
+Template is based on online template, rationale is that it's a better design? Faster? Source is startbootstrap.com 's 
+portfolio templates, the orange/yellow bg one with pencils
